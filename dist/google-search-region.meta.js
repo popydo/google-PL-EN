@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name            Google Search Region
+// @name            Google PL EN
 // @namespace       jmln.tw
 // @version         0.4.1
-// @description     A user script that lets you quickly switch Google search to different region.
+// @description     Userscript pozwalający szybko przełączyć się między anglojęzycznymi i polskojęzycznymi wynikami Google.
 // @author          Jimmy Lin
 // @license         MIT
 // @homepageURL     https://github.com/jmlntw/google-search-region
