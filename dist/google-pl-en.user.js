@@ -189,7 +189,7 @@
 // @match        *://*.google.co.zm/search*
 // @match        *://*.google.co.zw/search*
 // @match        *://*.google.cat/search*
-// @name         Google PL EN
+// @name         Google PL-EN
 // @version      0.5
 // @description  Save and apply language preferences for Google Search, Maps, and YouTube
 // @name:en      Google PL-EN
