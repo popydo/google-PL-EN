@@ -195,42 +195,6 @@
 // @description  Save and apply language preferences for Google Search, Maps, and YouTube
 // @name:en      Google Language Switcher
 // @description:en Save and apply language preferences for Google Search, Maps, and YouTube
-// @name:es      Cambiador de idioma de Google
-// @description:es Guarda y aplica preferencias de idioma para Google Search, Maps y YouTube
-// @name:fr      Changeur de langue Google
-// @description:fr Enregistrez et appliquez les préférences de langue pour Google Search, Maps et YouTube
-// @name:de      Google-Sprachumschalter
-// @description:de Speichern und Anwenden von Spracheinstellungen für Google Search, Maps und YouTube
-// @name:it      Cambia lingua di Google
-// @description:it Salva e applica le preferenze della lingua per Google Search, Maps e YouTube
-// @name:pt      Alternador de idioma do Google
-// @description:pt Salve e aplique preferências de idioma para Google Search, Maps e YouTube
-// @name:ru      Переключатель языка Google
-// @description:ru Сохраните и примените языковые предпочтения для Google Search, Maps и YouTube
-// @name:ja      Google言語スイッチャー
-// @description:ja Google検索、マップ、YouTubeの言語設定を保存して適用
-// @name:ko      구글 언어 전환기
-// @description:ko Google 검색, 지도 및 YouTube에 대한 언어 설정을 저장하고 적용
-// @name:zh-cn   谷歌语言切换器
-// @description:zh-cn 保存并应用Google搜索、地图和YouTube的语言偏好
-// @name:zh-tw   谷歌語言切換器
-// @description:zh-tw 保存並應用Google搜尋、地圖和YouTube的語言偏好
-// @name:ar      مبدل لغة جوجل
-// @description:ar احفظ وطبق تفضيلات اللغة لـ Google Search و Maps و YouTube
-// @name:hi      गूगल भाषा स्विचर
-// @description:hi Google Search, Maps और YouTube के लिए भाषा वरीयताओं को सहेजें और लागू करें
-// @name:th      ตัวสลับภาษา Google
-// @description:th บันทึกและใช้ค่ากำหนดภาษาใน Google Search, Maps และ YouTube
-// @name:vi      Bộ chuyển đổi ngôn ngữ Google
-// @description:vi Lưu và áp dụng các tùy chọn ngôn ngữ cho Google Search, Maps và YouTube
-// @name:id      Pengalih Bahasa Google
-// @description:id Simpan dan terapkan preferensi bahasa untuk Google Search, Maps, dan YouTube
-// @name:ms      Penukar Bahasa Google
-// @description:ms Simpan dan terapkan keutamaan bahasa untuk Google Search, Maps dan YouTube
-// @name:tr      Google Dil Değiştirici
-// @description:tr Google Search, Maps ve YouTube için dil tercihlerini kaydedin ve uygulayın
-// @name:nl      Google Taalwisselaar
-// @description:nl Sla taalvoorkeuren op en pas deze toe voor Google Zoeken, Maps en YouTube
 // @name:pl      Przełącznik języka Google
 // @description:pl Zapisz i zastosuj preferencje językowe dla Google Search, Maps i YouTube
 // @author       TieuThanhNhi
