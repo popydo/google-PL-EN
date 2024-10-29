@@ -227,8 +227,8 @@
         GM_addStyle(`
             .lang-switcher {
                 position: fixed;
-                top: 35px;
-                right: 110px;
+                bottom: 15px;
+                right: 15px;
                 z-index: 9999;
                 padding: 5px;
                 border-radius: 5px;
