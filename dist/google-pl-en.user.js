@@ -203,8 +203,6 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_addStyle
-// @downloadURL https://update.greasyfork.org/scripts/500970/Google%20Language%20Switcher.user.js
-// @updateURL https://update.greasyfork.org/scripts/500970/Google%20Language%20Switcher.meta.js
 // ==/UserScript==
 
 (function() {
